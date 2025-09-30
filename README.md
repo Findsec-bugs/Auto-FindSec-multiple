@@ -82,7 +82,7 @@ COMMIT;
 ```
 NOTE: If the above command fails for alter session issues, try to remove first line and then execute it.
 
-STEP 4: Now execute the below sql query in same terminal
+STEP 4: Now execute the below sql query in same terminal.
 
 ```SQL
 
